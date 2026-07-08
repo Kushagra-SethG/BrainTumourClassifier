@@ -1,0 +1,14 @@
+# PyTorch (GPU version installed separately)
+torch
+torchvision
+torchaudio
+
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+opencv-python
+Pillow
+jupyter
+ipykernel
